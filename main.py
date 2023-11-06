@@ -2,16 +2,11 @@ import openai
 import os
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
+mainTextPath = "Data/As I Lay Dying.txt"
+mainText = open(mainTextPath, "r").read()
 
 def extract_entities(text):
     try:
-        # Call the OpenAI API to extract entities from the text
-        # response = openai.Completion.create(
-        #   engine="gpt-3.5-turbo",  # or the latest engine available
-        #   prompt=f"Identify and list all the unique entities from the following text:\n\n{text}",
-        #   max_tokens=150
-        # )
-
         response = openai.ChatCompletion.create(
           model='gpt-3.5-turbo',
           messages=[{'role': 'system', 'content': f"Identify and list all the unique entities from the following, make sure you don't miss anything."},
@@ -27,8 +22,21 @@ def extract_entities(text):
         print(f"An error occurred: {e}")
         return []
 
-# Example text to analyze
-text_to_analyze = "Alice is a data scientist at Initech. She works with Bob, a software engineer."
 
-# Extract entities
-entities = extract_entities(text_to_analyze)
+# entities = extract_entities(text_to_analyze)
+
+paragraphs = []
+with open(mainTextPath, 'r') as file:
+    paragraph = []
+    for line in file:
+        if line.strip() == '':  # Check for blank lines
+            if paragraph:
+                paragraphs.append('\n'.join(paragraph))
+                paragraph = []
+        else:
+            paragraph.append(line.strip())
+    if paragraph:  # Add the last paragraph if the file doesn't end with a blank line
+        paragraphs.append('\n'.join(paragraph))
+print(paragraphs[2])
+# Now 'paragraphs' is a list containing each paragraph as an element
+
