@@ -24,7 +24,7 @@ Moreover, show connections between the Nodes as Edges by using the following for
 Relations are verbs, adjectives, and adverbs, none of them are unique names, all of them are general terms.
 """
 
-systemMessage = {"role": 'system', "content":systemContent}
+systemMessage = {"role": 'system', "content": systemContent}
 
 messageHistory.append(systemMessage)
 def extract_entities(messages):
@@ -68,7 +68,7 @@ historyParaphsPerMessage = round(paraphsPerMessage * 0.1)
 maxParaphParsed = 150
 
 for i in range(0, paraCount, paraphsPerMessage):
-    if i >= maxParaphParsed:
+    if i >= maxParaphParsed or i >= paraCount:
         break
     content = ""
     for j in range(i, i + paraphsPerMessage):
