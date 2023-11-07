@@ -20,7 +20,7 @@ This is a Node sample: {"id": "Ada", "type": "charachter"}
 Also a string in json format is always provided. if it is empty it mean no data is extracted yet.
 You must also return the Nodes in JSON format.
 Moreover, show connections between the Nodes as Edges by using the following format:
-{"source": "Node1_id", "target": "Node2_id", "relation": "Relation1", "senti": "positive"}
+{"source": "Node1_id", "target": "Node2_id", "relation": "Relation1", "sentiment": "positive"}
 Relations are verbs, adjectives, and adverbs, none of them are unique names, all of them are general terms.
 """
 
