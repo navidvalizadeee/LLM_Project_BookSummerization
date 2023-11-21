@@ -1,0 +1,813 @@
+S,T,R,ST
+As I Lay Dying,William Faulkner,written by,positive
+As I Lay Dying,Delphine Lettau,produced by,positive
+As I Lay Dying,Cindy Beyer,produced by,positive
+As I Lay Dying,Distributed Proofreaders Canada team,produced by,positive
+As I Lay Dying,Canada,location of publication,neutral
+As I Lay Dying,FP administrator,contact name,neutral
+As I Lay Dying,HAL SMITH,dedication,positive
+DARL,JEWEL,interaction,neutral
+DARL,Vernon,interaction,neutral
+DARL,Pa,interaction,neutral
+JEWEL,Pa,interaction,neutral
+Cash,Pa,interaction,neutral
+Eula,Pa,interaction,neutral
+Kate,Pa,interaction,neutral
+JEWEL,Vernon,interacting,neutral
+Dar,Pa,interacting,neutral
+DARL,Pa,interacting,neutral
+DARL,JEWEL,interacting,neutral
+CORA,DARL,describing,positive
+CORA,JEWEL,describing,negative
+CORA,ANSE,describing,negative
+DEWEY DELL,JEWEL,interacting,neutral
+DEWEY DELL,DARL,interacting,neutral
+TULL,ANSE,describing,neutral
+TULL,ANSE,interacting,neutral
+As I Lay Dying,William Faulkner,written by,positive
+DARL,JEWEL,is sibling of,positive
+DARL,Eula,mentions,neutral
+DARL,DEWEY DELL,mentions,neutral
+DARL,Addie Bundren,discusses,neutral
+DARL,Vardaman,discusses,neutral
+PEABODY,As I Lay Dying,appears in,neutral
+PEABODY,Vernon,mentions,neutral
+PEABODY,JEWEL,mentions,neutral
+PEABODY,DEWEY DELL,mentions,neutral
+PEABODY,Addie Bundren,attends,neutral
+PEABODY,Dewey Dell,attends,neutral
+Vardaman,JEWEL,discusses,neutral
+Vardaman,DEWEY DELL,discusses,neutral
+Vardaman,Addie Bundren,interacts with,neutral
+Vardaman,Cash,mentions,neutral
+Vardaman,Pa,discusses,neutral
+Vardaman,PEABODY,mentions,neutral
+Addie Bundren,Dewey Dell,interacts with,neutral
+Addie Bundren,Cash,interacts with,neutral
+Addie Bundren,Pa,interacts with,neutral
+PA,Cash,mentions,neutral
+PA,Dewey Dell,interacts with,neutral
+PA,Addie Bundren,interacts with,neutral
+Cash,Addie Bundren,look at,neutral
+pa,Cash,talk to,neutral
+pa,Vernon,suggest,neutral
+pa,Cash,tell to get at it,neutral
+pa,Vernon,mention,neutral
+pa,Vernon,suggest,positive
+Cash,pa,not answer,negative
+Cash,pa,not listen,neutral
+pa,Cash,tell to get at it,neutral
+pa,Cash,mention,neutral
+pa,Vernon,suggest,positive
+pa,Addie Bundren,talk to,neutral
+Cash,Addie Bundren,not listen,negative
+Cash,Addie Bundren,look at,neutral
+Dewey Dell,Addie Bundren,stand in twilight,neutral
+Dewey Dell,Addie Bundren,look at,neutral
+Dewey Dell,peabody,think about,neutral
+Dewey Dell,peabody,mention,neutral
+Addie Bundren,Pa,look at,neutral
+Addie Bundren,Pa,look at,neutral
+Addie Bundren,Pa,touch,neutral
+Addie Bundren,Pa,touch,neutral
+Addie Bundren,Pa,talk to,neutral
+Addie Bundren,Pa,mention,neutral
+Addie Bundren,Teeth,say,positive
+Jewel,Addie Bundren,call dead,negative
+Jewel,axle,pry,neutral
+Jewel,Vardaman,shout at,negative
+Vardaman,fish,think,negative
+Vardaman,fish,remember,neutral
+Vardaman,She,think,neutral
+Vardaman,jump off porch,think,negative
+Vardaman,bed,hear,negative
+Vardaman,barn,see,neutral
+Vardaman,barn,remember,negative
+Vardaman,crying,complain about noise,negative
+Vardaman,stick,handle,neutral
+Vardaman,buggy,hit,neutral
+Vardaman,horse,strike at,neutral
+Vardaman,crying,hear,negative
+cow,Vardaman,moan,neutral
+cow,Vardaman,nudge,neutral
+Pa,Vardaman,ask,neutral
+Cash,Vardaman,ask about,neutral
+Pa,Vardaman,worriedly ask,negative
+Pa,Vardaman,ask about,neutral
+Dewey Dell,Fish,hear,neutral
+Dewey Dell,Fish,notice,neutral
+Dewey Dell,Fish,think about,neutral
+Dewey Dell,Fish,doubt,negative
+Vardaman,cow,is,neutral
+Vardaman,barn,is,neutral
+cow,bucket,follows,neutral
+Vardaman,stall,pass,neutral
+Vardaman,LAFE,calls,neutral
+Vardaman,LAFE,shakes,negative
+Vardaman,LAFE,asks,neutral
+Vardaman,LAFE,cries,negative
+Vardaman,LAFE,shakes,negative
+Vardaman,cooking pan,chopped,neutral
+Vardaman,Vernon,call,neutral
+Vernon,Vardaman,witness,neutral
+TULL,night,set in,neutral
+TULL,Peabody’s team,come up,negative
+TULL,Cora,argues with,negative
+TULL,door,knocking,neutral
+TULL,Peabody's team,hitched,neutral
+TULL,Cora,singing,neutral
+TULL,path of sin,warned,negative
+TULL,rain,blowing,neutral
+TULL,box,nailed,neutral
+CORA,DARL,holding,neutral
+CORA,JEWEL,holding,neutral
+DARL,Cash,sitting,neutral
+CORA,Anse Bundren,show,negative
+CORA,singing,activity,neutral
+CORA,him,sitting,neutral
+him,us,sitting,neutral
+him,mules,go,neutral
+Cash,nail,fixing,neutral
+us,there,get,neutral
+Delphine Lettau,singing,activity,neutral
+him,us,leaning,positive
+rain,windows,come up,neutral
+we,was raining,get,neutral
+toward,it,driving,neutral
+we,I,got,neutral
+him,CORA,laying,neutral
+boy,us,leaning,positive
+Cash,saw,going up and down,neutral
+Anse Bundren,scarecrow,standing,neutral
+he,ponder,think,neutral
+he,and goes,falled,neutral
+they,him,founded,neutral
+morning,they,found,neutral
+they,his face,looked,neutral
+he,said,is,negative
+CORA,I,faced,neutral
+CORA,life,is and has ever been,positive
+I,myself,think,neutral
+I,I,reackon,neutral
+CORA,I,reackon,neutral
+I,I,think,neutral
+CORA,He,trust,positive
+man or woman,Cora,said,neutral
+man or woman,would make,go,neutral
+man or woman,them,like,neutral
+man or woman,we,have,neutral
+man's,would be,for,neutral
+CORA,I,reackon,neutral
+CORA,He,run,neutral
+CORA,changes,make,neutral
+CORA,I,like,neutral
+VARDAMAN,lantern,sits,neutral
+VARDAMAN,chimney,cracked,neutral
+VARDAMAN,chimney,smeared,neutral
+VARDAMAN,ground,looks,neutral
+Cash,have,labours,neutral
+Cash,planks,moving back and forth,neutral
+sounds,ceasing,movement,neutral
+he,saws,flashing slowly,neutral
+elbow,running,flashing,neutral
+saw,appears,running,neutral
+saw,Cash,sets,neutral
+Cash,comes,sweeping,neutral
+sulphur,smells,like,neutral
+Cash,work on,half turned into,neutral
+one,that,sloped,neutral
+face,sloped,is,neutral
+the,trees,swollen,neutral
+rain,rushing,begins,neutral
+rain,lantern,cover,neutral
+rain,suddenly,rushes,neutral
+rain,pa,swept,negative
+motion of the saw,has not faltered,functioned,neutral
+Cash,not faltered,has,neutral
+Cash,sets down,puts,neutral
+Pa,returns,goes,neutral
+Pa,takes,squatting,neutral
+Pa,watching,watches,neutral
+Pa,looks at,looking,neutral
+Vernon Tull,is,comes,neutral
+Vernon,does not look up,watches,neutral
+Vernon,says,tells,neutral
+Vernon,finish,come,neutral
+Vernon,help,I'll help,neutral
+Cash,ceases,does,neutral
+I,if you,go,neutral
+Pa,looks at,go,neutral
+Vernon,re-enters,watches,neutral
+Vernon,get in,go,neutral
+Vernon,take,get,neutral
+raincoat,takes off,wears,neutral
+cash,measures,strokes,neutral
+the four of them,raise,and turn,neutral
+It,is light,ceases,neutral
+It,yet day,is,neutral
+Cash,drives,made,neutral
+They,watching,move,neutral
+I,are you,tells,neutral
+I,got,hitched,neutral
+They,had,in,neutral
+I,pulled,was pulled,neutral
+Quick,found,explains,neutral
+Quick,said,says,neutral
+Anse,on,monkeys,neutral
+Quick,says,said,neutral
+Anse,better,go,neutral
+Anse,get,better,neutral
+Armstid,had,go,neutral
+Anse,meets,shaking,neutral
+Anse,is drawn smooth,making,neutral
+His face,is,making,negative
+His face,looks,is looking,neutral
+Peabody,told,told,neutral
+Fish,is,is,neutral
+it,is,was,neutral
+buckboard,was pulled,was pulled,neutral
+Quick,said,told,neutral
+Quick,found,says,neutral
+river,was up,was up,neutral
+Peabody,Cora,told,neutral
+Peabody,team,says,neutral
+team,Canada,located,neutral
+I,team,give,positive
+I,buggy,give,positive
+womenfolks,house,go into,neutral
+fans,whish,go,neutral
+men,porch,stop on,neutral
+I,back,go around to,neutral
+Cash,holes,filling up,neutral
+holes,wood,bored in,neutral
+we,pieces,made,neutral
+men,house,go into,neutral
+Cash,it,made,neutral
+it,dress,was,neutral
+dress,bottom,had,neutral
+dress,head,could spread out,neutral
+they,veil,had made,neutral
+veil,bar,made out of,neutral
+Whitfield,house,comfort,positive
+I,trestles,go back to,neutral
+Whitfield,waist,muddy to,negative
+bridge,gone,has,neutral
+bridge,old ford,down to,neutral
+I,team,wait for,neutral
+I,it,sweat over,neutral
+Cora,wagon,sitting on,neutral
+house,women,host,positive
+women,song,sing,positive
+women,line,commence,positive
+women,voice,quaver,negative
+Whitfield,voice,bigger,neutral
+Whitfield,house,begin,positive
+Whitfield,horse,swimming,neutral
+Whitfield,house,coming,neutral
+Whitfield,house,crying,negative
+song,women,sing,positive
+air,voices,flowing,neutral
+voices,finish,cease,neutral
+do,go,appear,neutral
+Cora,wagon,singing,positive
+Darl,horse,dead,negative
+Darl,mother,love,positive
+Darl,vulture,hang,negative
+Darl,path,enter,neutral
+Darl,loft,reach,neutral
+Cash,balance,won't,negative
+HE,hands,stoops,neutral
+hands,planks,cling,neutral
+HE,breath,hear,neutral
+feet,floor,moving,neutral
+feet,path,balancing,neutral
+Jewel,front end,carry,neutral
+Vardaman,town,going,neutral
+Vardaman,horse,leave,neutral
+Vardaman,mother,fish,neutral
+Vernon,fish,seen,neutral
+Jewel,horse,leave,neutral
+ma,fish,be,neutral
+Darl,ma,have,neutral
+Darl,woman,eats,neutral
+Darl,shave,every day,neutral
+Dewey Dell,cake,taking,positive
+Santa Claus,it,own,neutral
+Dewey Dell,basket,has,positive
+Dewey Dell,package,has,positive
+Dewey Dell,Cakes,transferring,positive
+wagon,package,carry,neutral
+Pa,Dewey Dell,disagreeing,negative
+she,Christmas,predicting,positive
+HE,barn,entering,neutral
+Dewey Dell,basket,carries,neutral
+eyes,Peabody's back,reflecting,neutral
+lever,move,moves,neutral
+hand,parcel,holds,neutral
+Dewey Dell,Vardaman,sits,neutral
+Cash,Pa,telling,neutral
+wagon,move,moves,neutral
+mules,ears,bob,neutral
+Buzzards,motionless in tall and soaring circles,diminish,neutral
+JEWEL,horse,riding,neutral
+Pa,JEWEL,told,negative
+Darl,laughing,began,neutral
+man,bridge,cut off,positive
+wagon,creaking,moves,neutral
+Tull,Vernon,lifting hand,positive
+wagon,mud,whispering,neutral
+red scoriation,road,curving,neutral
+spoke,Addie Bundren,compares,neutral
+Cash,head,turning,neutral
+Pa,faces ahead,looks,neutral
+Dewey Dell,watches,looks at,neutral
+signboard,faded lettering,has,neutral
+Cash,spits,says,neutral
+Cash,stain,removes,neutral
+road,crosses Whiteleaf,breaks off,neutral
+Willows,leans,breaking off,neutral
+he,Cash,passes,neutral
+horse,sitting,sits,neutral
+road,lies,watches,neutral
+Pa,durn it,says,negative
+them,them,running,neutral
+I,Bundren,told,neutral
+pistol,me,blaze at,neutral
+horse,seat,feed,neutral
+Bundren,River,made to rise,positive
+Rachel,talked,about not having a regular man,neutral
+girl,me,watching,neutral
+I,them,back down,neutral
+man,earns,wonder,neutral
+reward,taken,taken from,neutral
+man,waits,waits,neutral
+Pale,him,blessed,neutral
+IT,chosen,shows,neutral
+IT,reward,earn,positive
+It,uses,uses,neutral
+mule,keeps,kept,neutral
+bones,gaunted,feed,neutral
+girl,talking,quit,neutral
+I,him,talked,neutral
+beauty,curse,puts on,negative
+yes,pistols,had,neutral
+I,Bundren,talked,neutral
+folks,stops,takes as,negative
+I,tools,have,neutral
+Dewey Dell,watching,looks at,neutral
+girl,me,watching,neutral
+me,girl,went down to the barn,neutral
+Bundren,promise,give,neutral
+heart,open to a man,is,neutral
+Bundren's promise,Addie,give,neutral
+Rachel,told,talk to,neutral
+I,keys enough,have,neutral
+girl,me,watching,neutral
+girl,talking,quit,neutral
+Cash,Addie Bundren,head_of,positive
+Cash,Darl,looks_at,positive
+Darl,Vardaman,sleeps_with,negative
+Darl,JEWEL,looks_at,neutral
+Darl,house,looks_at,neutral
+Darl,Cash,looks_at,neutral
+DARL,Addie Bundren,killed,negative
+DEWEY DELL,JEWEL,looks_at,negative
+DEWEY DELL,individual,milking,neutral
+DEWEY DELL,Vardaman,milking,neutral
+DEWEY DELL,Vardaman,siblings,neutral
+Dewey Dell,horse,sits_on,neutral
+Cash,Darl,looking_at,neutral
+Cash,Darl,measuring,neutral
+Cash,Jewel,asks,neutral
+Cash,Darl,says,neutral
+Cash,Jewel,says,negative
+Cash,Darl,asks,neutral
+Darl,JEWEL,looks_at,neutral
+Delphine Lettau,William Faulkner,trading_with,neutral
+Delphine Lettau,William Faulkner,knows,positive
+Delphine Lettau,William Faulkner,known_from,positive
+Addie Bundren,Darl,hides_from,negative
+Addie Bundren,Darl,hating,negative
+Addie Bundren,Darl,loving,positive
+Vernon,wagon,drive,positive
+Vernon,trail,turn,neutral
+individual,As I Lay Dying,extract,neutral
+As I Lay Dying,William Faulkner,written by,neutral
+individual,Canada,located,neutral
+Dar and Jewel,turning back,observe,neutral
+individual,land,circumvent,neutral
+individual,water,dare,neutral
+individual,town,go to,neutral
+individual,fire,risk,negative
+individual,earth,risk,negative
+individual,water,risk,negative
+individual,bananas,eat,positive
+individual,rain,fall,neutral
+individual,promise,give,positive
+dark current,talks,up to,neutral
+dark current,dimpled surface,travelling,neutral
+current,clucks and murmurs,among,neutral
+current,foam,skummed with,neutral
+current,sweat,like,neutral
+undergrowth,goes,in,neutral
+unwinded cane,lean,as before,neutral
+cane and saplings,suspended,on,neutral
+trees,stand,above,neutral
+trees,fill,with,neutral
+Cash and I,sit,in,neutral
+Jewel,sits,at,neutral
+horse,trembling,its eye,neutral
+Cash's face,composed,is also gravely,positive
+voices,are quiet,our,neutral
+Tull,cut,taken and,neutral
+trees,leaning,at,neutral
+wooden road,shaped,vaguely,neutral
+Jewel,looks at,us,neutral
+tree,leans to,with,neutral
+mules,stand,their,neutral
+Darl,sees,Cash and,neutral
+reins,Cash takes,he reaches down and,positive
+Jewel,speaks,to,positive
+horse,slips,goes under to,negative
+log,appears,suddenly between,neutral
+reeves,other hand he,with his,neutral
+river,cross,take,neutral
+pa and Vernon and Vardaman and Dewey Dell,in sight,are,neutral
+mules,stand,They too,neutral
+Darl,tries,going,positive
+Vernon and Vardaman,running along,are,positive
+Jewel,trying,to fight,negative
+Cash,does not pay,him any attention,negative
+Cash,shouts at,Back,negative
+ore,appears,appears,neutral
+water,running straight,is,neutral
+jump,go,to,neutral
+Vernon,pass,because,positive
+I,realise,did not realise,neutral
+log,moving,watching,neutral
+beard of an old man or a goat,hangs,like,neutral
+Jewel,appears,appears to lift,neutral
+DARL,Dewey Dell,says,neutral
+DARL,JEWEL,questions,neutral
+Vardaman,hammer,fetches,neutral
+JEWEL,chalk-line,ties,neutral
+Vernon,hammer,compares,neutral
+Vernon,planes,advises,neutral
+Vernon,Jewel,compares,positive
+Dewey Dell,Jewel,tells,neutral
+DARL,Jewel,directs,neutral
+DARL,Jewel,argues,neutral
+DARL,Jewel,asks,neutral
+DARL,Dewey Dell,tells,neutral
+Vernon,Jewel,asks,neutral
+Jewel,Vernon,refutes,negative
+Jewel,Vernon,invites,neutral
+Jewel,Vernon,argues,negative
+Dewey Dell,Jewel,calls,negative
+Dewey Dell,Jewel,cries,negative
+Dewey Dell,Vernon,asks,neutral
+Jewel,Vernon,answers,neutral
+Jewel,Vernon,throws,neutral
+Vernon,Jewel,retreats,neutral
+Dewey Dell,Cash,addresses,positive
+Dewey Dell,Cash,voices,positive
+Dewey Dell,Cash,lifts,positive
+Dewey Dell,Cash,says,positive
+Dewey Dell,Cash,calls,positive
+Dewey Dell,Cash,wipes,neutral
+Dewey Dell,Cash,begs,neutral
+Dewey Dell,Cash,prays,positive
+Dewey Dell,Cash,prayed for,positive
+Dewey Dell,CORA,contradicts,negative
+CORA,Bundren,criticizes,negative
+CORA,Bundren,rebukes,negative
+CORA,Addie,talks about,negative
+CORA,Addie,judges,negative
+CORA,Addie,advises,negative
+CORA,Jewel,mentions,negative
+CORA,Jewel,talks about,negative
+CORA,Jewel,accuses,negative
+CORA,Addie,mentions,negative
+CORA,Addie,talks about,neutral
+CORA,Anse,mentions,neutral
+CORA,Anse,asks about,neutral
+Addie,Anse,thinks,negative
+Addie,Anse,remembers,negative
+Addie,Anse,asks,neutral
+Addie,Anse,discusses,neutral
+Addie,Anse,realizes,negative
+Addie,Anse,prays for,positive
+Anse,Addie,talks about,negative
+Spring,quiet,is,neutral
+land,quiteness,is,neutral
+Anse,Jewel,takes,neutral
+Anse,Darl,uses,negative
+Anse,Darl,tricks,negative
+Anse,Darl,tricks,negative
+Anse,Cash,knows,neutral
+Anse,Cash,belongs to,neutral
+Anse,Cash,has,neutral
+Anse,love,calls,neutral
+vomit,wiping,is used for,neutral
+Addie,Darl,had,neutral
+Addie,Darl,found,neutral
+DARL,Cash,lying with,positive
+DARL,Cash,suckle,positive
+DARL,Anse,killing,negative
+DARL,Anse,tricked by,negative
+DARL,Anse,revenge,negative
+DARL,Anse,taking revenge,negative
+DARL,Anse,found,positive
+Addie Bundren,Anse,promised,positive
+Dar and Jewel,DARL,found,positive
+DARL,Anse,died,negative
+CORA,children,told,negative
+CORA,me,told,negative
+Anse,children,gave,positive
+Anse,Dewey Dell,gave,negative
+Anse,Vardaman,gave,positive
+CORA,me,told,negative
+Whitfield,Satan,wrestled with,negative
+Whitfield,fall,confessed,positive
+Whitfield,God's guidance,asked,positive
+WHITFIELD,God,confessed,positive
+WHITFIELD,legacy,fall,positive
+WHITFIELD,confession,confessed,positive
+Uncle Billy,Darl,waked up,positive
+gal,Uncle Billy,wiped,positive
+Darl,tools,brought,positive
+Anse,horse,taken,negative
+Jewel,horse,allowed,positive
+Jewel,Anse,stood,neutral
+buzzard,field,circling,neutral
+house,boy,yelling,neutral
+Lula,Jewel,said,neutral
+Dewey Dell,boy,chasing,neutral
+I,Jewel,asked,neutral
+Jewel,Darl,called,neutral
+Anse,Jewel,said,neutral
+Darl,Jewel,answer,neutral
+Jewel,Dewey Dell,go,neutral
+Jewel,wagon,move,neutral
+Darl,Jewel,mean,neutral
+I,Jewel,said,neutral
+Eustace Grimm,Anse,hunting,neutral
+JEWEL,horse,taken,neutral
+JEWEL,Texas,gone to,negative
+JEWEL,horse,gone away with,negative
+VARDAMAN,five of us,are,neutral
+CASH,leg,broken,negative
+pa,Cash,bothered by,neutral
+pa,JEWEL,conjure,negative
+CASH,leg,asked to be propped a little higher,neutral
+DARL,rope,loosens,neutral
+DARL,Cash's teeth,puts back,neutral
+pa,drive slower,told,neutral
+CASH,pain,bothered by,neutral
+CASH,face,wiped,neutral
+DARL,cakes,talks about,neutral
+DARL,cakes,be in fine shape by,positive
+DARL,Dewey Dell,does not look around at,negative
+MOSELEY,happens to look up,happens,neutral
+MOSELEY,woman,sees outside the window,neutral
+MOSELEY,woman,moves toward,neutral
+MOSELEY,Albert,catches up at the fountain,neutral
+MOSELEY,woman,sees outside the window,neutral
+MOSELEY,woman,standing there,neutral
+MOSELEY,woman,came in,neutral
+MOSELEY,woman,carrying a package,neutral
+MOSELEY,woman,buys,neutral
+MOSELEY,woman,wait for a sign,neutral
+MOSELEY,woman,looked at by,neutral
+MOSELEY,woman,happens to look at,neutral
+MOSELEY,woman,kind of pretty,positive
+MOSELEY,woman,wrapped package,neutral
+MOSELEY,woman,looking at,neutral
+MOSELEY,woman,bumbled at,neutral
+MOSELEY,woman,comes in,neutral
+I,She,conversation,neutral
+She,I,conversation,neutral
+She,age,appearance,neutral
+She,world,knowledge,neutral
+She,regular,query,neutral
+She,store,acquisition,neutral
+I,store,advice,negative
+store,nipple,suggestion,neutral
+I,nipple,advice,neutral
+She,wedding licence,purchase,neutral
+She,money,possession,neutral
+I,store,availability,neutral
+I,Lafe,mention,neutral
+drug-store,Lafe,reference,neutral
+drug-store,ten dollars,payment,neutral
+drug-store,Lafe,promise,neutral
+drug-store,product,purchase,neutral
+I,Albert,discussion,neutral
+wagon,hardware store,destination,neutral
+ladies,hardware store,destination,neutral
+I,supper,mention,neutral
+supper,smell,description,neutral
+I,marshal,conversation,neutral
+I,marshal,comment,neutral
+I,Jefferson,destination,neutral
+I,faith,advice,positive
+water,cash's hat,usage,neutral
+Dewey Dell,package,transport,neutral
+Dewey Dell,trouble,mention,neutral
+CASH,sawdust,description,neutral
+CASH,legs,condition,neutral
+CASH,father,interaction,neutral
+CASH,father,disagreement,negative
+I,can,request,neutral
+sand,can,usage,neutral
+sand,cash,suggestion,neutral
+Vardaman,sand,acquisition,neutral
+Vardaman,road,location,neutral
+CASH,interrogatory glance,question,neutral
+CASH,interrogatory glance,description,neutral
+Vardaman,sand,put,positive
+Vardaman,branch,crossed,positive
+Vardaman,wagon,goes to,positive
+Dewey Dell,Cement,wipes,negative
+Dewey Dell,Cement,pours,positive
+Dewey Dell,water,pours,positive
+Dewey Dell,Cement,pours,positive
+Pa,Cash,asks for,positive
+Vardaman,Jewel,are,positive
+Vardaman,Jewel,are,positive
+Vardaman,Jewel,are,positive
+Darl,Jewel,calls,negative
+Darl,Jewel,asks,negative
+Cash,sweat,began,neutral
+Cash,water,poured,positive
+Vardaman,ear,put,neutral
+Darl,moonlight,across,neutral
+Dewey Dell,dress,wipes,neutral
+Dewey Dell,sleep,get,positive
+Darl,cat,leaped,neutral
+Darl,cat,runs,neutral
+Vardaman,ear,put,neutral
+Darl,cat,leaped,neutral
+Darl,Jewel,I say,negative
+Darl,Jewel,calls,negative
+DARL,Cash,says,positive
+Dewey Dell,Cash,told,negative
+Dewey Dell,I,told,negative
+Cash,leg,fixed,positive
+Cash,leg,sick,negative
+Cash,we,pour,positive
+Dewey Dell,I,am,negative
+Dewey Dell,going to sleep,on,neutral
+Dewey Dell,I,sleep,neutral
+Darl,barn,see,neutral
+Dewey Dell,Darl,told me,negative
+Dewey Dell,seeing,find,neutral
+Vardaman,they,saw,neutral
+they,Darl,went,neutral
+JEWEL,he,lying,negative
+vomit,Jewel,got,negative
+they,apple tree,carried,neutral
+they,barn,carrying,neutral
+JEWEL,lying,put,negative
+Dewey Dell,Jewel,put,negative
+Gillespie,stall,behind,neutral
+Jewel,stall,struggling,negative
+Jewel,running,begins to,neutral
+Jewel,running,turns back,neutral
+VARDAMAN,they,said,neutral
+Gillespie,Darl,reach,neutral
+Jewel,rain,running upon,neutral
+Jewel,crashes slowly forward,comes,neutral
+Jewel,Mack,leans,neutral
+Gillespie,Mack,pass,neutral
+he,nightshirt,rips,neutral
+Gillespie,Mack,stares,neutral
+Jewel,yelling,cries,neutral
+Mack,cow,back,neutral
+Jewel,watch,pauses,neutral
+Jewel,watch,glances,neutral
+Jewel,rides,up-ends,neutral
+Mack,lean,looks,neutral
+Jewel,looks up,paused,neutral
+we,stall,enter,neutral
+Darl,Mack,lean,neutral
+Darl,reaches,reach,neutral
+Delphine Lettau,DARL,said,positive
+William Faulkner,As I Lay Dying,authored by,neutral
+Jewel,Dewey Dell,lie on,neutral
+Jewel,Dewey Dell,lie on,neutral
+medicine,Jewel's back,put on,positive
+Jewel's back,red,looks like,negative
+back,Dewey Dell,was made for,neutral
+back,black,was,neutral
+Dewey Dell,Jewel,said,neutral
+Dewey Dell,Jewel,said,neutral
+Darl,I,told,neutral
+Darl,I,told,neutral
+Darl,apple tree,is under,neutral
+Darl,cat,keep away,neutral
+moonlight,still,was,neutral
+moonlight,Darl,dappled on,neutral
+Darl,cry,need to,neutral
+bar,is,was,neutral
+bar,was,used to be,neutral
+we,find,went to,neutral
+I,a hill,walk,neutral
+I,hurt,did,negative
+I,hurt,did,negative
+foot and leg,Cash,break off,negative
+back,touches,where,neutral
+Life,blew up,was created on,neutral
+hear,begin,begin to look,neutral
+we,reach,move,neutral
+I,do,say,neutral
+I,want,just,positive
+I,want,wanted to,positive
+come,pa,got down,neutral
+we,descend,follow,neutral
+wagon,whisper,let,neutral
+I,think,PAUSE,neutral
+she,does not look,descends,neutral
+she,stops,begins,neutral
+I,do,check,neutral
+she,Carrying,does,neutral
+bushe,get to,she gets to,neutral
+I,okes,do,neutral
+What,you,say,neutral
+He don't mean nothing,I,says,neutral
+Whitfield,Vardaman,saw,positive
+Whitfield,Dewey Dell,told,neutral
+Dewey Dell,Vardaman,told,neutral
+Gillespie,Dewey Dell,knowed,negative
+Gillespie,Darl,knowed,negative
+Darl,Gillespie,knowed,negative
+Vardaman,Gillespie,see,neutral
+Gillespie,Vardaman,see,neutral
+Addie Bundren,Gillespie,knowed,neutral
+Dewey Dell,JEWEL,tell,neutral
+Dewey Dell,Vardaman,tell,neutral
+Gillespie,waggon,get,neutral
+Gillespie,horse,get,neutral
+Peabody,CASH,patch,neutral
+Peabody,Anse Bundren,treat,negative
+Dewey Dell,Gillespie,told,neutral
+Dewey Dell,Darl,told,neutral
+JEWEL,Darl,tell,positive
+JEWEL,Peabody,send word,neutral
+Darl,PEABODY,conversation,neutral
+Armstid,Anse Bundren,treatment,negative
+Armstid,Anse Bundren,complaint,negative
+MACGOWAN,Jody,conversation,neutral
+MACGOWAN,country woman,interaction,neutral
+MACGOWAN,Jody,warning,negative
+MACGOWAN,country woman,conversation,neutral
+Skeet,prescription case,filling,neutral
+Skeet,doctor,impersonating,negative
+Skeet,graduated glass,filling,neutral
+Skeet,capsules,preparing,neutral
+Skeet,money,accepting,neutral
+Vardaman,stores,passing,neutral
+moon,court-house,shining on,neutral
+Vardaman,Christmas,expecting,neutral
+soda-water,men,drinking,neutral
+Vardaman,banana,eating,neutral
+Vardaman,lock,observing,neutral
+Vardaman,cow,seeing,neutral
+Cash,leg,fix,neutral
+Pa,Peabody,said,neutral
+Pa,barber-shop,going to,neutral
+pa,suratt,bought,neutral
+pa,Peabody,give,neutral
+Pa,Pa,told,neutral
+pa,Peabody,give,neutral
+Pa,Pa,said,neutral
+Pa,Vardaman,said,neutral
+Jewel,team,got,positive
+Jewel,pallet,fixed,neutral
+Jewel,pallet,fixed,neutral
+Jewel,team,hitched up,neutral
+pa,business,said,neutral
+pa,hotel,pay,neutral
+Pa,Pa,said,neutral
+Pa,Peabody,maybe,neutral
+Pa,Pa,said,neutral
+Jewel,grape,carrying,neutral
+Vardaman,mouth,eating,neutral
+Dewey Dell,mouth,eating,neutral
+Jewel,team,got,positive
+pa,him,looking,neutral
+scene,us,watching,neutral
+them,Pa,coming along,neutral
+Jewel,team,got,positive
+pa,him,looking,neutral
+Jewel,teeth,got,neutral
+Jewel,teeth,made,neutral
+grip,him,made,neutral
+her,grip,carrying,neutral
+there,them,set,neutral
+Dewey Dell,mouth,eating,neutral
+Vardaman,mouth,eating,neutral
+grip,graphophones,listening,positive
+Darl,listening,enjoy,positive
+world,life,is,neutral
+pa,meet,says,neutral

@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 import csv
 from Methods.graphFilters import *
 
-nodeFile = "Nodes_NO_NM_WKG_3.csv"
-edgeFile = "Edges_NO_NM_WKG_3.csv"
+nodeFile = "Nodes_WO_NM_WKG_2.csv"
+edgeFile = "Edges_WO_NM_WKG_2.csv"
 nodes = {}
 edges = {}
 
@@ -24,25 +24,25 @@ for nd in nodes:
 for ed in edges:
     graph.add_edge(edges[ed]["S"], edges[ed]["T"], **edges[ed])
 
-attributesList = GetAllNodeAttributes(graph, "T")
+attributesList = GetAllNodeAttributes(nodes, "T")
 print(attributesList)
 
 attribute = "character"
 attributes = ["character", "location", "event"]
 
-tNodes = GetNodesByAttributes(graph, "T", attributes)
+tNodes = GetNodesByAttributes(nodes, "T", attributes)
 print(len(tNodes))
-tEdges = GetEdgesByNodes(graph, tNodes)
+tEdges = GetEdgesByNodes(edges, tNodes)
 print(len(tEdges))
 # nx.draw_networkx(graph, with_labels=True, font_color='red')
 pos = nx.spring_layout(graph)
 
 newGraph = nx.Graph()
-for nd in tNodes:
-    newGraph.add_node(nd, **nodes[nd])
-for ed in tEdges:
+for ndID, nd in tNodes.items():
+    newGraph.add_node(ndID, **nd)
+for edId, ed in tEdges.items():
     newGraph.add_edge(ed["S"], ed["T"], **ed)
-print(tEdges)
-nx.draw_networkx(newGraph, pos=pos, with_labels=True, font_color='red', node_size=10, alpha=0.8)
+
+nx.draw_networkx(newGraph, pos=pos, with_labels=True, font_color='red', node_size=50, alpha=0.8)
 plt.axis('equal')
 plt.show() 

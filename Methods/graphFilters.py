@@ -1,39 +1,50 @@
 import networkx as nx
 
-def GetAllNodeAttributes(graph: nx.graph, attributeKey: str)-> list:
+def GetAllNodeAttributes(nodes: dict, attributeKey: str)-> list:
     attributes = list()
 
-    for node, data in graph.nodes(data=True):
-        attribute = data.get(attributeKey)
+    for nodeid, nodevalues in nodes.items():
+        attribute = nodevalues[attributeKey]
         if attribute is not None:
             attributes.append(attribute)
     attributes = list(set(attributes))
     return attributes
 
-def GetNodesByAttribute(graph: nx.graph, attributeKey: str, attributeValue: str)-> list:
-    nodes = list()
+def GetNodesByAttribute(nodes: dict, attributeKey: str, attributeValue: str)-> dict:
+    newNodes = dict()
 
-    for node, data in graph.nodes(data=True):
-        attribute = data.get(attributeKey)
+    for nodeid, nodevalues in nodes.items():
+        attribute = nodevalues[attributeKey]
         if attribute is not None and attribute == attributeValue:
-            nodes.append(node)
-    return nodes
+            newNodes.setdefault(nodeid, nodevalues)
+    return newNodes
 
-def GetNodesByAttributes(graph: nx.graph, attributeKey: str, attributeValues: list)-> list:
-    nodes = list()
-    for node, data in graph.nodes(data=True):
-        attribute = data.get(attributeKey)
+def GetNodesByAttributes(nodes: dict, attributeKey: str, attributeValues: list)-> dict:
+    newNodes = dict()
+    for nodeid, nodevalues in nodes.items():
+        attribute = nodevalues[attributeKey]
         if attribute is not None and attribute in attributeValues:
-            nodes.append(node)
-    return nodes
+            newNodes.setdefault(nodeid, nodevalues)
+    return newNodes
 
-def GetEdgesByNodes(graph: nx.graph, nodes: list)-> list:
-    edges = list()
-    for source, target, data in graph.edges(data=True):
+def GetEdgesByNodes(edges: list, nodes: list)-> dict:
+    newEdges = dict()
+    counter = 0
+    for edgId, edValues in edges.items():
+        source = edValues["S"]
+        target = edValues["T"]
         if source in nodes and target in nodes:
             # print(f"source: {source}, target: {target}, data: {data}")
-            edges.append(data)
+            newEdges.setdefault(counter, edValues)
+            counter += 1
     return edges
+
+def GetRouteFromNodeToNode(graph: nx.graph, source: str, target: str)-> list:
+    route = list()
+    hasPath = nx.has_path(graph, source=source, target=target)
+    if hasPath:
+        route = nx.shortest_path(graph, source=source, target=target)
+    return route
 
 def RemoveNodesByAttribute(graph: nx.graph, attributeKey: str, attribute: str)-> nx.graph:
     pass
