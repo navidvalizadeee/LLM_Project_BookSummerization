@@ -1,0 +1,239 @@
+S,T,R,ST,W
+Mr. Jones,hen-houses,locked,neutral,0.3
+Mr. Jones,pop-holes,forgot to shut,negative,0.4
+Mr. Jones,lantern,carrying,neutral,0.2
+Mr. Jones,barrel,drew beer from,positive,0.3
+Mr. Jones,Mrs. Jones,bedroom,neutral,0.4
+Major,Middle White boar,prize,positive,0.6
+Major,meeting,called for,positive,0.5
+Major,speech,delivered,neutral,0.6
+Major,animals,highly regarded by,positive,0.7
+dogs,Bluebell,group with,neutral,0.4
+dogs,Jessie,group with,neutral,0.4
+dogs,Pincher,group with,neutral,0.4
+pigs,platform,settled down on,neutral,0.3
+Major,animals,woke up,neutral,0.3
+Muriel,goat,joined the animals,neutral,0.4
+cat,Boxer,sat near,positive,0.4
+Major,dream,had,neutral,0.4
+Major,Rebellion,predicted,neutral,0.5
+Major,speech,given,neutral,0.6
+animals,Major,attentive to,positive,0.6
+Major,Moses,asleep on,neutral,0.4
+animals,Major,reported uproar to,negative,0.4
+Major,question,proposed,neutral,0.5
+Major,teachings,elaborated,neutral,0.5
+animals,Moses,believed in,neutral,0.4
+animals,Moses,hated,negative,0.4
+events,June,exist in,neutral,0.3
+Jones,drunk,got at Red Lion,negative,0.5
+animals,Jones,expelled,positive,0.7
+animals,farm,galloped around,positive,0.4
+animals,farm buildings,raced back to,positive,0.4
+reins,rubbish fire,thrown on,neutral,0.4
+whips,up in flames,brought to,positive,0.5
+Major,animals,Speech,positive,0.7
+major,Rebellion,Prediction,positive,0.7
+Major,animals,Teaching,positive,0.7
+major,pigs,Organising,positive,0.7
+Major,pigs,Elaborating,positive,0.7
+Major,pigs,Naming,positive,0.7
+major,pigs,Meeting,positive,0.7
+major,military decoration,Creation,positive,0.7
+major,Battle of the Cowshed,Naming,positive,0.7
+Jones's reign,Rebellion,Conflict,negative,0.8
+Jones's reign,animals,Retaliation,negative,0.8
+Jones's reign,animals,Chase,negative,0.8
+Jones's reign,animals,Retribution,negative,0.8
+Snowball,animals,Defense,positive,0.9
+Snowball,animals,Skirmish,positive,0.8
+Mr. Jones,Animal Farm,owned,positive,0.7
+yard,hen-houses,contained,positive,0.3
+yard,pop-holes,contained,positive,0.3
+yard,lantern,contained,positive,0.3
+scullery,Mrs. Jones,located,positive,0.3
+scullery,beer,contained,positive,0.3
+scullery,barrel,contained,positive,0.3
+barn,Major,located,positive,0.3
+barn,Middle White boar,located,positive,0.3
+barn,Willington Beauty,located,positive,0.3
+barn,dogs,contained,positive,0.3
+barn,Bluebell,contained,positive,0.3
+barn,Jessie,contained,positive,0.3
+barn,Pincher,contained,positive,0.3
+barn,pigs,contained,positive,0.3
+barn,hens,contained,positive,0.3
+barn,pigeons,contained,positive,0.3
+barn,sheep,contained,positive,0.3
+barn,cows,contained,positive,0.3
+barn,cart-horses,contained,positive,0.3
+barn,Boxer,contained,positive,0.3
+barn,Clover,contained,positive,0.3
+barn,goat,contained,positive,0.3
+barn,Benjamin,contained,positive,0.3
+barn,Muriel,contained,positive,0.3
+barn,donkey,contained,positive,0.3
+barn,cat,contained,positive,0.3
+barn,ducklings,contained,positive,0.3
+barn,Mollie,contained,positive,0.3
+barn,mare,contained,positive,0.3
+barn,trap,contained,positive,0.3
+barn,raven,contained,positive,0.3
+bedroom,comrades,located,positive,0.3
+Rebellion,Animal Farm,took place,positive,0.7
+Rebellion,Sugarcandy Mountain,took place at,positive,0.7
+clouds,March,associated with,neutral,0.3
+clouds,July,associated with,neutral,0.3
+farm,Jones's reign,location of,neutral,0.3
+farm,harness-room,contained,positive,0.3
+farm,bits,contained,positive,0.3
+farm,nose-rings,contained,positive,0.3
+farm,dog-chains,contained,positive,0.3
+farm,knives,contained,positive,0.3
+farm,reins,contained,positive,0.3
+farm,halters,contained,positive,0.3
+farm,blinkers,contained,positive,0.3
+farm,nosebags,contained,positive,0.3
+farm,whips,contained,positive,0.3
+Jones's reign,August,end of,neutral,0.3
+Jones's reign,Jones,ruled by,negative,0.7
+windmill,November,ruined in,negative,0.7
+windmill,Napoleon,rebuilding by,positive,0.5
+windmill,Napoleon,ordered by,positive,0.5
+Napoleon,Snowball,blamed on,negative,0.7
+Mr. Whymper,Animal Farm,visited,positive,0.5
+Mr. Whymper,Animal Farm,broker arrangement,positive,0.7
+Mr. Whymper,animals,contact,negative,0.3
+Napoleon,whitewashing of Facts,control,negative,0.8
+Sunday,Squealer,speech,positive,0.4
+Squealer,animals,persuasion,positive,0.6
+Napoleon,Squealer,reliance,positive,0.5
+animals,Rebellion,fear,negative,0.6
+Snowball,Rebellion,guidance,negative,0.7
+Snowball,mane,responsible,negative,0.7
+Napoleon,rebuilding the windmill,planning,positive,0.7
+Napoleon,food shortage concealment,strategy,positive,0.8
+Napoleon,execution of traitors,command,negative,0.9
+Napoleon,animals,retribution,negative,0.8
+Napoleon,Beasts of England,abolishment,negative,0.7
+Napoleon,Beasts of England,forbidden,negative,0.7
+frederick,attack on Animal Farm,planning,negative,0.9
+Frederick,bad treatment of animals,cruelty,negative,0.8
+animals,attack on Pinchfield Farm,suppress,negative,0.7
+Pilkington,timber purchase,negotiation,neutral,0.6
+Pilkington,products exchange,negotiation,positive,0.7
+Mr. Jones,hen-houses,ownership,neutral,0.3
+Mr. Jones,pop-holes,ownership,neutral,0.3
+Mr. Jones,lantern,ownership,neutral,0.3
+Mr. Jones,yard,ownership,neutral,0.3
+Mr. Jones,boots,ownership,neutral,0.3
+Mr. Jones,beer,ownership,neutral,0.3
+Mr. Jones,barrel,ownership,neutral,0.3
+Mrs. Jones,scullery,ownership,neutral,0.3
+Mrs. Jones,bed,ownership,neutral,0.3
+Major,State,speaking,positive,0.7
+Rebellion,animals,participation,neutral,0.5
+Sugarcandy Mountain,Moses,belief,neutral,0.3
+Moses,animals,corruption,negative,0.6
+Napoleon,Boxer,leadership,positive,0.8
+Animal Farm,Rebellion,is about,positive,0.7
+Mr. Jones,hen-houses,owns,positive,0.5
+Mr. Jones,pop-holes,owns,positive,0.5
+Mr. Jones,lantern,owns,positive,0.5
+Mr. Jones,yard,owns,positive,0.5
+Mr. Jones,boots,owns,positive,0.5
+Mr. Jones,beer,owns,positive,0.5
+Mr. Jones,barrel,owns,positive,0.5
+Mr. Jones,scullery,owns,positive,0.5
+Mrs. Jones,bed,owns,positive,0.5
+Mr. Jones,Major,owns,negative,0.5
+Mr. Jones,Middle White boar,owns,negative,0.5
+Mr. Jones,Willington Beauty,owns,negative,0.5
+yard,barn,is connected to,positive,0.3
+dogs,Bluebell,influences,positive,0.3
+dogs,Jessie,influences,positive,0.3
+dogs,Pincher,influences,positive,0.3
+pigs,dogs,favours,negative,0.7
+pigs,pigeons,favours,positive,0.5
+pigs,dogs,favours,negative,0.7
+pigs,hens,favours,positive,0.5
+pigs,sheep,favours,positive,0.5
+cows,pigs,favours,negative,0.5
+pigs,cart-horses,favours,negative,0.5
+pigs,Boxer,favours,positive,0.7
+pigs,Clover,favours,positive,0.7
+pigs,goat,favours,negative,0.5
+pigs,Benjamin,favours,negative,0.5
+pigs,Muriel,favours,positive,0.5
+pigs,donkey,favours,negative,0.5
+pigs,cat,favours,negative,0.5
+pigs,ducklings,favours,positive,0.5
+pigs,mare,favours,positive,0.5
+pigs,jackdaw,favours,positive,0.5
+pigs,Whymper,favours,positive,0.5
+pigs,Frederick,favours,negative,0.5
+pigs,Pilkington,favours,negative,0.5
+pigs,Minimus,favours,positive,0.5
+"Four legs good, two legs bad",Sugarcandy Mountain,refers to,positive,0.3
+Rebellion,Sugarcandy Mountain,dreams of,positive,0.5
+Sugarcandy Mountain,clouds,located in,positive,0.3
+Sugarcandy Mountain,March,associated with,positive,0.3
+Snowball,Napoleon,opposes,negative,0.7
+pigs,Napoleon,favours,positive,0.7
+Napoleon,porkers,commands,positive,0.5
+Napoleon,Squealer,commands,positive,0.5
+July,Midsummer's Eve,happens on,positive,0.7
+Willingdon,farm,located in,positive,0.3
+Red Lion,farm,located at,positive,0.3
+buildings,farm,located at,positive,0.3
+Jones's reign,farm,happens at,negative,0.5
+farm,harness-room,located at,positive,0.3
+harness-room,bits,contains,positive,0.3
+harness-room,nose-rings,contains,positive,0.3
+harness-room,dog-chains,contains,positive,0.3
+harness-room,knives,contains,positive,0.3
+harness-room,reins,contains,positive,0.3
+harness-room,halters,contains,positive,0.3
+harness-room,blinkers,contains,positive,0.3
+harness-room,nosebags,contains,positive,0.3
+harness-room,whips,contains,positive,0.3
+Jones,windmill,owns,positive,0.5
+Squealer,Moses,commands,positive,0.5
+Sugarcandy Mountain,Moses,describes,positive,0.3
+Moses,July,associates with,positive,0.3
+Boxer,Benjamin,warns,positive,0.5
+Horse Slaughterer and Glue Boiler,Boxer,sends to,negative,0.5
+Horse Slaughterer and Glue Boiler,Squealer,announces to,positive,0.5
+pigs,Boxer,announces to,positive,0.5
+Boxer,Squealer,announces to,positive,0.5
+Squealer,comrades,announces to,positive,0.5
+Moses,raven,reunites,positive,0.5
+Moses,Sugarcandy Mountain,associates with,positive,0.3
+Sugarcandy Mountain,animals,refers to,positive,0.3
+animals,Sugarcandy Mountain,dreams of,positive,0.5
+Snowball,man,opposes,negative,0.7
+Napoleon,pigs,favours,positive,0.7
+animals,turnip field,working,neutral,0.3
+animals,pigs,fear,negative,0.4
+animals,human visitors,fear,negative,0.4
+animals,Farmhouse,curiosity,neutral,0.3
+pigs,farmers,meeting,neutral,0.6
+farmers,windmill,admiration,positive,0.7
+pigs,chairs,comfortable,positive,0.6
+pigs,companionship,enjoying,positive,0.6
+Mr. Pilkington,neighbours,misunderstanding,negative,0.8
+features,farms,introducing,positive,0.5
+animals,lower animals,working,neutral,0.4
+labour problem,same,comparison,neutral,0.4
+Mr. Pilkington,pigs,congratulating,positive,0.7
+Mr. Pilkington,animals,observing,neutral,0.5
+Mr. Pilkington,prosperity,toasting,positive,0.7
+Mr. Pilkington,Mr. Pilkington's speech,criticizing,negative,0.6
+Mr. Pilkington,prosperity of Animal Farm,toasting,positive,0.7
+Napoleon,prosperity of Animal Farm,toasting,positive,0.7
+Napoleon,rebellion,addressing,positive,0.6
+Napoleon,pigs,changes,neutral,0.5
+Napoleon,Mr. Pilkington's speech,criticizing,negative,0.6
+Napoleon,prosperity,toasting,positive,0.7
+farmers,pigs,quarrel,negative,0.8
+pigs,man,changing,neutral,0.6

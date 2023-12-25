@@ -20,14 +20,14 @@ systemContent = f"""
 Identify and list all the unique and important entities from the given text, make sure you don't miss anything.
 From now on we call these entities as {NODES}.
 The goal is to create a comprehensive knowledge graph of the text.
-{NODES} are charachters, relations, events, locations, objects, and concepts.
+{NODES} are characters, relations, events, locations, objects, and concepts.
 Node types must be mentioned in the output.
 Do not include any Nodes that are not in the text.
 Do not use prenouns or pronouns, use the full name of the Nodes. 
 This is a Node sample: {{"id": "Ada", "T": "charachter"}}
 You must also return the {NODES} in JSON format.
 Moreover, show connections between the {NODES} as {EDGES} by using the following format:
-{{"S": "Node1_id", "T": "Node2_id", "R": "Relation1", "ST": "positive"}}
+{{"S": "Node1_id", "T": "Node2_id", "R": "Relation1", "ST": "positive", "key1": "daily rutine"}}
 "S" is for source, "T" is for target, "R" is for relation, "ST" is for sentiment.
 Relations are verbs, adjectives, and adverbs, none of them are unique names, all of them are general terms.
 """

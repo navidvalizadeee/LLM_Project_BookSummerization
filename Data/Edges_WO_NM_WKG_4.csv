@@ -1,0 +1,255 @@
+S,T,R,ST,W
+George Orwell,Animal Farm,wrote,neutral,0.7
+Mr. Jones,hen-houses,locked,neutral,0.3
+Mr. Jones,pop-holes,forgot to shut,negative,0.3
+Mr. Jones,hen-houses,locked,neutral,0.3
+Mr. Jones,beer,drew himself a glass of,neutral,0.3
+Mr. Jones,bed,made his way up to,neutral,0.3
+Mr. Jones,scullery,barrel in,neutral,0.3
+Mrs. Jones,snoring,was already,neutral,0.3
+animals,old Major,wanted to communicate,positive,0.7
+old Major,strange dream,had,neutral,0.7
+animals,big barn,meeting in,neutral,0.7
+old Major,animals,highly regarded by,positive,0.7
+dogs,Bluebell,came first,neutral,0.5
+dogs,Jessie,came after,neutral,0.5
+dogs,Pincher,came after,neutral,0.5
+pigs,settled down,immediately in front of the platform,neutral,0.5
+hens,perched,on the window-sills,neutral,0.5
+pigeons,fluttered up,to the rafters,neutral,0.5
+sheep and cows,lay down,behind the pigs,neutral,0.5
+cart-horses,Boxer and Clover,came in together,neutral,0.5
+Muriel,white goat,came in,neutral,0.5
+Benjamin,donkey,came in,neutral,0.5
+Moses,tame raven,was asleep on a perch,neutral,0.5
+Old Major,animals,speak to,positive,0.7
+animals,strange dream,heard about,neutral,0.5
+Old Major,wisdom,wished to pass on,positive,0.7
+animals,labour,produce stolen from,negative,0.7
+man,enemy,is the only real enemy,negative,0.7
+man,consumes,without producing,negative,0.7
+man,gives back,the bare minimum,negative,0.7
+man,sets animals to work,gives back to them the bare minimum,negative,0.7
+man,interests,prosperity of the one is the prosperity of the others,negative,0.7
+animals,unity,let there be,positive,0.7
+animals,comradeship,perfect comradeship,positive,0.7
+man,tyranny,the root cause of hunger and overwork,negative,0.7
+Old Major,Rebellion,message to,positive,0.7
+man,enemy,only get rid of,negative,0.7
+animals,justice,sooner or later justice will be done,positive,0.7
+Old Major,dream,told animals about,neutral,0.5
+animals,dream,described by,neutral,0.5
+animals,song,sung by long gone animals,positive,0.7
+lying pigs,ravens,crept out,neutral,0.5
+dogs,rats,suddenly caught sight of,negative,0.7
+old Major,resetted his trotter,for silence,neutral,0.5
+old Major,wild creatures,put the question if they are comrades or enemies,neutral,0.7
+old Major,ways of man,duty of enmity towards,negative,0.7
+Old Major,dream,resembled,neutral,0.5
+animals,unity,perfect comradeship in the struggle,positive,0.7
+old Major,song,sang,neutral,0.5
+Mr. Jones,rats,voting,positive,0.7
+Mr. Jones,rabbits,voting,positive,0.7
+Old Major,rats,voting,positive,0.8
+Old Major,rabbits,voting,positive,0.8
+Old Major,comrades,speech,neutral,0.9
+Old Major,Man,duty of enmity,negative,0.9
+Old Major,Animalism,teachings,neutral,0.7
+Snowball,Napoleon,working together,positive,0.8
+Snowball,Napoleon,teaching,neutral,0.7
+Snowball,Napoleon,writing,neutral,0.7
+Mr. Jones,Mrs. Jones,spouse,positive,0.6
+Mr. Jones,animals,owner,negative,0.8
+Snowball,Napoleon,opposition,negative,0.7
+Snowball,animals,leadership,positive,0.7
+Snowball,Napoleon,debates,negative,0.6
+Napoleon,pigs,teaches,positive,0.7
+Napoleon,puppies,teaches,positive,0.6
+Napoleon,pigs,manages,positive,0.7
+Napoleon,Snowball,disagreement,negative,0.7
+pigs,milk,consumption,positive,0.6
+pigs,apples,consumption,positive,0.6
+Mr. Pilkington,Mr. Frederick,dislike,negative,0.5
+Snowball,defensive operations,leader,positive,0.8
+Napoleon,pigeons,sends,positive,0.5
+Old Major,Mr. Jones,events on Animal Farm,positive,0.7
+Old Major,Mrs. Jones,events on Animal Farm,positive,0.7
+Old Major,Snowball,events on Animal Farm,positive,0.7
+Old Major,Napoleon,events on Animal Farm,positive,0.7
+Snowball,Napoleon,disagreement,negative,0.6
+Mr. Pilkington,Mr. Frederick,relationship,neutral,0.5
+Napoleon,Snowball,banishment,negative,0.9
+Napoleon,Snowball,power struggle,negative,0.8
+Snowball,windmill,advocated,positive,0.8
+Napoleon,food production,argued for,negative,0.7
+animals,factions,divided into,neutral,0.5
+Snowball,electricity,imagination of,positive,0.8
+Napoleon,sentiments,in disagreement,negative,0.7
+Napoleon,Snowball,expulsion,negative,0.6
+Napoleon,Snowball,blamed for ruins,negative,0.9
+Napoleon,rebuilding,determined,positive,0.8
+Mr. Jones,beds,sleeping in,positive,0.3
+farmhouse,sheets,removal,positive,0.3
+sheets,beds,absence,positive,0.3
+pigs,brainwork,responsibility,positive,0.4
+pigs,repose,protection,positive,0.4
+pigs,duties,execution,positive,0.4
+animals,announcement,reassurance,positive,0.2
+pigs,getting up,schedule change,positive,0.3
+animals,tiredness,feeling,neutral,0.2
+animals,happiness,feeling,positive,0.3
+windmill,construction,compensation,positive,0.6
+animals,admiration,feeling,positive,0.3
+animals,toil,hard work,positive,0.4
+Benjamin,enthusiasm,lack of,neutral,0.1
+weather,building,obstacle,negative,0.4
+animals,hope,feeling,positive,0.3
+food,shortage,discovery,negative,0.5
+human beings,lies,propagation,negative,0.4
+Napoleon,utilization,strategy,negative,0.5
+Mr. Whymper,contacts,interaction,neutral,0.3
+store-shed,bins,filling,neutral,0.3
+store-shed,grain,concealment,negative,0.4
+Napoleon,appearance,reduction,neutral,0.2
+Squealer,announcement,order,positive,0.3
+hens,reaction,protest,negative,0.4
+Napoleon,orders,enforcement,negative,0.4
+dogs,enforcement,compliance,negative,0.4
+hens,sacrifice,reluctance,negative,0.4
+Napoleon,agreement,negotiation,neutral,0.3
+Snowball,whereabouts,discovery,negative,0.4
+animals,disturbance,effect,negative,0.4
+animals,danger,perception,negative,0.4
+animals,fear,emotions,negative,0.3
+Squealer,report,announcement,neutral,0.2
+Squealer,news,impact,negative,0.4
+Squealer,accusation,revelation,negative,0.4
+Snowball,rebellion,promotion,negative,0.4
+Snowball,treachery,revelation,negative,0.5
+animals,awareness,realization,negative,0.4
+animals,rebellion,cessation,neutral,0.3
+animals,misery,feeling,negative,0.3
+Boxer,hard work,resolution,positive,0.4
+Clover,emotions,feeling,negative,0.3
+Squealer,Boxer,cast an ugly look at,negative,0.5
+Napoleon,animals,ordered to assemble in the yard,neutral,0.7
+Napoleon,animals,wearing medals,neutral,0.6
+Napoleon,pigs,demanded confession from pigs,negative,0.8
+Napoleon,pigs,demanded confession from pigs,negative,0.8
+Napoleon,animals,ordered killings,negative,0.9
+animals,pigs,shocked by treachery,negative,0.7
+Boxer,Napoleon,confusion about events,neutral,0.6
+Boxer,Napoleon,decision to work harder,positive,0.7
+animals,Clover,huddled together in shock,negative,0.6
+Clover,Muriel,expressed disappointment,negative,0.5
+animals,Napoleon,loyal to Napoleon,positive,0.7
+Napoleon,Squealer,abandoned old anthem,negative,0.8
+animals,Squealer,confused about anthem change,negative,0.6
+animals,Snowball,questioned adherence to commandment,neutral,0.6
+animals,Napoleon,revised interpretation of commandment,neutral,0.7
+animals,Squealer,misled about award,negative,0.6
+animals,Napoleon,worked harder despite doubts,positive,0.7
+Napoleon,Whymper,negotiated with humans,neutral,0.7
+Napoleon,animals,engaged in negotiations,neutral,0.6
+animals,Snowball,blamed for sabotage,negative,0.7
+animals,Snowball,believed to be involved with humans,negative,0.7
+animals,Napoleon,celebrated windmill completion,positive,0.8
+Napoleon,animals,announced timber sale,negative,0.8
+Napoleon,animals,planned hidden agreement,negative,0.8
+Napoleon,animals,reassured about attack,negative,0.7
+animals,Napoleon,planned defense strategy,neutral,0.7
+Napoleon,animals,sought help from others,neutral,0.6
+animals,windmill,build,positive,0.7
+animals,Napoleon,inspected,neutral,0.4
+Napoleon,mill,named,positive,0.6
+Napoleon,Frederick,sold timber,negative,0.8
+Napoleon,animals,congratulated,positive,0.6
+pigeons,Pinchfield Farm,to avoid,negative,0.5
+pigeons,Foxwood,convey message,neutral,0.5
+animals,Napoleon,cunning,positive,0.6
+Napoleon,Frederick,forced price raise,negative,0.7
+Napoleon,Frederick,cheque payment demand,negative,0.6
+Napoleon,Frederick,demanded cash payment,positive,0.7
+Frederick,Napoleon,paid,positive,0.7
+animals,windmill,inspected banknotes,neutral,0.4
+animals,Napoleon,celebrated,positive,0.7
+animals,Napoleon,congratulated,positive,0.6
+animals,battle,named,neutral,0.5
+animals,battle,performed funeral,neutral,0.5
+pigs,whisky,discovered,neutral,0.5
+Napoleon,ill,announced,negative,0.6
+pigs,Napoleon,ordered to punish alcohol,negative,0.6
+Drinking alcohol,death,punishment,negative,0.6
+animals,election,held,neutral,0.5
+Snowball,fought,on Jones side,negative,0.6
+Snowball,inflicted wounds,by Napoleon's teeth,negative,0.6
+Muriel,Seven Commandments,read,neutral,0.4
+Boxer,windmill,rebuilding,positive,0.6
+herbs,Boxer,treatment,positive,0.6
+Clover,Boxer,advice,positive,0.5
+Benjamin,Boxer,advice,positive,0.5
+Boxer,retirement age,set,neutral,0.4
+Clover,Boxer,admit,positive,0.5
+Boxer,Ambition,have,positive,0.7
+laws of Animal Farm,retiring age,formulate,neutral,0.5
+Moses,Sugarcandy Mountain,talk,neutral,0.4
+pension,five pounds of corn per day,fixed at,neutral,0.6
+rations,reduction,execute,neutral,0.4
+Squealer,rations,explain,positive,0.6
+seasons,short animal lives,pass,neutral,0.4
+Napoleon,Rebellion,name,positive,0.6
+Squealer,orator,be,positive,0.5
+Napoleon,Boxer,pronounced a short oration in honor,positive,0.7
+Napoleon,Boxer,ordered a large wreath to be made,positive,0.6
+Napoleon,Boxer,intended to hold a memorial banquet in honor,positive,0.7
+Napoleon,animals,ended his speech with a reminder,positive,0.7
+animals,Napoleon,sorrow for Boxer's death was tempered by the thought,positive,0.7
+Boxer,died,received admirable care and expensive medicines,positive,0.7
+animals,Boxer,enormously relieved to hear,positive,0.6
+Seven Commandments,animals,passed on by word of mouth,positive,0.5
+whisky,pigs,acquired the money to buy,neutral,0.4
+Benjamin,Boxer,more morose and taciturn after Boxer's death,negative,0.6
+pigs,supervision and organisation of the farm,"needed to expend enormous labours every day upon mysterious things called 'files,' 'reports,' 'minutes,' and 'memoranda'",neutral,0.4
+pigs,dogs,had good appetites and never produced any food by their own labor,neutral,0.4
+animals,pigs,their life was generally hungry and troubled by the flies,negative,0.6
+animals,Rebellion,only a dim tradition passed on by word of mouth,neutral,0.4
+Napoleon,animals,denounced the luxuries as contrary to the spirit of Animalism,negative,0.7
+pigs,animals,did not work by their own labor,negative,0.5
+animals,Squealer,Squealer was teaching the sheep to sing a new song,positive,0.6
+animals,pigs,unsettled from a period of misunderstanding,negative,0.7
+pigs,humans,meeting on terms of equality,neutral,0.5
+pigs,humans,neighbouring farmers expressed great admiration for everything they saw,positive,0.7
+Mr. Pilkington,pigs,referred to the prosperity of Animal Farm,positive,0.7
+Napoleon,Mr. Pilkington,emphasized the friendly feelings subsisting between Animal Farm and its neighbours,positive,0.7
+Mr. Pilkington,pigs,congratulated the pigs on the low rations and long working hours,positive,0.6
+pigs,humans,lower than any animals in the county,positive,0.7
+Napoleon,Mr. Pilkington,happy that the period of misunderstanding was at an end,positive,0.7
+Napoleon,animals,only wish was to live at peace and in normal business relations with their neighbours,positive,0.7
+pigs,animals,addressing one another as 'Comrade' was to be suppressed,negative,0.6
+pigs,animals,marching every Sunday morning past a boar's skull was to be suppressed,negative,0.6
+Napoleon,animals,friendly feelings subsisted and ought to subsist between Animal Farm and its neighbours,positive,0.7
+animals,dreams,never abandoned the old dreams,positive,0.6
+Republic of the Animals,animals,still believed in,positive,0.6
+animals,Republic of the Animals,marveled at being the only farm owned and operated by animals,positive,0.7
+animals,Republic of the Animals,never gave up hope,positive,0.7
+Napoleon,animals,truest happiness lay in working hard and living frugally,positive,0.7
+pigs,humans,meeting on terms of equality,neutral,0.5
+pigs,humans,meeting on terms of equality,neutral,0.5
+Napoleon,pigs,denounced the luxuries as contrary to the spirit of Animalism,negative,0.7
+pigs,humans,meeting on terms of equality,neutral,0.5
+pigs,humans,meeting on terms of equality,neutral,0.5
+animals,pigs,pledge to adopt 'I will work harder' and 'Comrade Napoleon is always right' as their own maxims,positive,0.7
+pigs,humans,meeting on terms of equality,neutral,0.5
+animals,pigs,anthem 'Beasts of England' was perhaps hummed secretly,neutral,0.5
+pigs,animals,in early summer Squealer ordered the sheep to follow him,positive,0.6
+Napoleon,pigs,Napoleon himself was seen strolling in the farmhouse garden with a pipe in his mouth,neutral,0.5
+pigs,humans,meeting on terms of equality,neutral,0.5
+Napoleon,pigs,announcing that the name 'Animal Farm' had been abolished and the farm was to be known as 'The Manor Farm',negative,0.7
+pigs,humans,meeting on terms of equality,neutral,0.5
+pigs,humans,meeting on terms of equality,neutral,0.5
+Mr. Pilkington,Animal Farm,giving a toast,positive,0.7
+Napoleon,Mr. Pilkington,clinking mugs,positive,0.6
+Napoleon,Mr. Pilkington,speech,neutral,0.6
+Napoleon,Mr. Pilkington,changing the farm name,neutral,0.8
+Napoleon,The Manor Farm,giving a toast,positive,0.7
+Mr. Pilkington,Napoleon,ace of spades quarrel,negative,0.9

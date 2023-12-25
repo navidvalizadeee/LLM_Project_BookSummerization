@@ -21,6 +21,7 @@ def GetNodesByAttribute(nodes: dict, attributeKey: str, attributeValue: str)-> d
 
 def GetNodesByAttributes(nodes: dict, attributeKey: str, attributeValues: list)-> dict:
     newNodes = dict()
+
     for nodeid, nodevalues in nodes.items():
         attribute = nodevalues[attributeKey]
         if attribute is not None and attribute in attributeValues:
@@ -37,7 +38,8 @@ def GetEdgesByNodes(edges: list, nodes: list)-> dict:
             # print(f"source: {source}, target: {target}, data: {data}")
             newEdges.setdefault(counter, edValues)
             counter += 1
-    return edges
+            # print(f"source: {source}, target: {target}, counter: {counter}")
+    return newEdges
 
 def GetRouteFromNodeToNode(graph: nx.graph, source: str, target: str)-> list:
     route = list()
@@ -46,5 +48,19 @@ def GetRouteFromNodeToNode(graph: nx.graph, source: str, target: str)-> list:
         route = nx.shortest_path(graph, source=source, target=target)
     return route
 
-def RemoveNodesByAttribute(graph: nx.graph, attributeKey: str, attribute: str)-> nx.graph:
-    pass
+def CheckEdgeNNodesIntegirity(edges: dict, nodes: dict)-> bool:
+    counter = 0
+    for edgId, edValues in edges.items():
+        source = edValues["S"]
+        target = edValues["T"]
+        if source not in nodes or target not in nodes:
+            counter += 1
+            if source not in nodes:
+                print(f"source: {source} not in nodes")
+            if target not in nodes:
+                print(f"target: {target} not in nodes")
+    print(f"counter: {counter}")
+    if counter > 0:
+        return False
+    else:
+        return True

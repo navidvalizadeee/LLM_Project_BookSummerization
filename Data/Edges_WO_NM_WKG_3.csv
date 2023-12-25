@@ -1,0 +1,26 @@
+S,T,R,ST,W
+As I Lay Dying,William Faulkner,written by,neutral,0.8
+As I Lay Dying,Delphine Lettau,produced by,neutral,0.5
+As I Lay Dying,Cindy Beyer,produced by,neutral,0.5
+As I Lay Dying,Hal Smith,dedicated to,positive,0.7
+Darl,Jewel,related to,neutral,0.6
+Jewel,Cash,related to,neutral,0.6
+Jewel,Addie Bundren,related to,neutral,0.6
+Darl,ma,related to,neutral,0.6
+Jewel,ma,related to,neutral,0.6
+Jewel,pa,related to,neutral,0.6
+Vernon,ma,related to,neutral,0.6
+Jewel,Addie Bundren,son,positive,0.7
+Jewel,Cash,sibling,neutral,0.6
+Jewel,Darl,sibling,neutral,0.6
+Jewel,ma,parent,neutral,0.6
+Darl,Jewel,sibling,neutral,0.6
+Darl,Addie Bundren,son,positive,0.7
+Darl,ma,parent,neutral,0.6
+Dewey Dell,ma,parent,positive,0.8
+Dewey Dell,Cash,sibling,neutral,0.6
+Dewey Dell,Jewel,sibling,neutral,0.6
+Dewey Dell,Addie Bundren,mother,positive,0.7
+Tull,Anse,neighbor,neutral,0.5
+Tull,Addie Bundren,acquaintance,neutral,0.6
+CORA,Addie Bundren,friend,positive,0.7

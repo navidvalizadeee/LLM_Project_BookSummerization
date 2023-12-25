@@ -1,0 +1,262 @@
+S,T,R,ST,W
+Animal Farm,George Orwell,author,neutral,0.7
+Old Major,Boxer,friendship,positive,0.8
+Old Major,Clover,friendship,positive,0.8
+Old Major,Muriel,friendship,positive,0.8
+Old Major,Benjamin,friendship,positive,0.8
+Old Major,Moses,friendship,positive,0.8
+Old Major,Mollie,friendship,positive,0.8
+Old Major,rats,comrades,positive,0.6
+Old Major,comrades,unity,positive,0.7
+Old Major,animals,equality,positive,0.7
+Old Major,Beasts of England,inspiration,positive,0.9
+Beasts of England,Old Major,inspired by,positive,0.9
+Old Major,rats,comrades of,positive,0.7
+Old Major,rabbits,comrades of,positive,0.7
+Old Major,dogs,dissentients,negative,0.7
+Old Major,cat,dissentients,negative,0.7
+Old Major,Mr. Jones,duty of enmity towards,negative,0.9
+Old Major,two-legged creatures,enemies,negative,0.8
+Old Major,four-legged creatures,friends,positive,0.8
+Old Major,fighting against Man,resembling him,negative,0.7
+Old Major,habit of Man,evil,negative,0.8
+Old Major,dream,reminded of old song,positive,0.6
+Old Major,animals,all animals are equal,positive,0.8
+Old Major,animals,no animal must tyrannize over others,positive,0.8
+Old Major,Beasts of England,song title,positive,0.5
+animals,Beasts of England,singing,positive,0.6
+animals,Mr. Jones,awoke,negative,0.7
+Mr. Jones,gun,lashed out at animals,negative,0.8
+animals,Mr. Jones,expelled,positive,0.9
+Animal Farm,Mr. Jones,was theirs,positive,0.9
+Snowball,Napoleon,cleverest,positive,0.7
+pigs,teaching and organizing,fell on,positive,0.7
+Snowball,Napoleon,elaborated Animalism,positive,0.7
+animals,meeting,ignorance and apathy,negative,0.6
+Mollie,Sugar,concerned about,neutral,0.5
+Snowball,Mollie,reproached,negative,0.6
+pigs,Moses,counteract lies,negative,0.7
+Animalism,Pigs,inscribed on wall,positive,0.7
+Animal Farm,Mr. Jones,ownership,negative,0.7
+Napoleon,pigs,leadership,positive,0.8
+Napoleon,Snowball,disagreement,negative,0.6
+pets,Mollie,behavior,neutral,0.4
+Napoleon,Snowball,competition,negative,0.7
+pigs,backup,protection,positive,0.7
+pigs,animals,authority,positive,0.7
+Snowball,Julius Caesar's book,strategy,neutral,0.6
+pigs,other animals,education,positive,0.7
+Snowball,other animals,organization,positive,0.7
+Snowball,other animals,leadership,positive,0.7
+Snowball,Muriel,teaching,positive,0.6
+Snowball,Benjamin,interaction,neutral,0.5
+pigs,milk,appropriation,negative,0.7
+pigs,apples,appropriation,negative,0.7
+pigs,animals,control,positive,0.7
+Snowball,pigeons,communication,positive,0.6
+animals,Rebellion,propagation,positive,0.6
+Foxwood,Manor Farm,adjoining,neutral,0.5
+Pinchfield,Manor Farm,adjoining,neutral,0.5
+Foxwood,Pinchfield,relationship,negative,0.6
+Mr. Pilkington,Foxwood,owner,neutral,0.5
+Mr. Frederick,Pinchfield,owner,neutral,0.5
+Animals,Rebellion,spread,positive,0.6
+Beasts of England song,Animals,inspiration,positive,0.6
+Snowball,Julius Caesar's book,strategy,neutral,0.6
+Snowball's attack,human beings,defensive,negative,0.7
+Animal Farm,George Orwell,written by,positive,0.9
+Mr. Jones,Manor Farm,ownership of,positive,0.7
+pigs,Manor Farm,residing in,neutral,0.5
+hens,Manor Farm,residing in,neutral,0.5
+pigeons,Manor Farm,residing in,neutral,0.5
+sheep,Manor Farm,residing in,neutral,0.5
+cows,Manor Farm,residing in,neutral,0.5
+Boxer,Manor Farm,residing in,neutral,0.6
+Clover,Manor Farm,residing in,neutral,0.6
+Muriel,Manor Farm,residing in,neutral,0.5
+Benjamin,Manor Farm,residing in,neutral,0.5
+Moses,Manor Farm,residing in,neutral,0.5
+Mollie,Manor Farm,residing in,neutral,0.5
+Mr. Jones,Red Lion,frequent visitor of,negative,0.7
+Snowball,Napoleon,disagreement with,negative,0.7
+Snowball,animals,inspiring speech to,positive,0.8
+Napoleon,animals,intimidating presence to,negative,0.8
+Squealer,animals,communication of new arrangement to,neutral,0.6
+Snowball,windmill,dispute over,negative,0.7
+Napoleon,food production,argues for,negative,0.7
+Napoleon,defence of the farm,argues for,negative,0.7
+Napoleon,firearms and training,advocates,negative,0.7
+Snowball,stir up rebellion,advocates,positive,0.7
+Snowball,Napoleon,disagreement,negative,0.6
+Snowball,Napoleon,debate influence,neutral,0.5
+Snowball,rebellion,stir up,neutral,0.5
+Napoleon,Sunday-morning Meetings,end,negative,0.7
+Napoleon,control of decisions,implements,negative,0.7
+Napoleon,Special Committee,establishes,positive,0.7
+pigs,Meetings,abolish,negative,0.7
+Napoleon,orders,delivers,neutral,0.5
+animals,orders,receive,neutral,0.5
+Napoleon,trade with neighbouring farms,decides upon,positive,0.7
+Napoleon,engage in trade,explains,negative,0.7
+Napoleon,need for materials,announces,negative,0.7
+Mr. Whymper,go-between role,agrees to,neutral,0.5
+human beings,hate Animal Farm,hold faith in,negative,0.7
+pigs,move into the farmhouse,announces,neutral,0.5
+pigs,take up residence,explains,neutral,0.5
+Napoleon,Leader,refers to as,positive,0.7
+Napoleon,new hours,announces,negative,0.7
+animals,weariness,voice,neutral,0.5
+animals,happiness,experience,positive,0.7
+animals,anticipation of hard work,feel,neutral,0.5
+pigs,Old Major,listens to,positive,0.7
+hens,animals,belong to,neutral,0.3
+pigeons,animals,belong to,neutral,0.3
+sheep,animals,belong to,neutral,0.3
+cows,animals,belong to,neutral,0.3
+Boxer,Cart-Horse,works with,positive,0.7
+Boxer,Clover,works with,positive,0.7
+animals,Jones's trap,fear,negative,0.6
+animals,Sundays,gather for,positive,0.5
+animals,Seven Commandments,follow,positive,0.7
+animals,Music and Singing,participate in,positive,0.5
+animals,Reading and Writing Classes,participate in,positive,0.5
+animals,Egg Production Committee,engages in,neutral,0.4
+animals,Clean Tails League,engages in,neutral,0.4
+animals,Wild Comrades' Re-education Committee,engages in,neutral,0.4
+animals,Whiter Wool Movement,engages in,neutral,0.4
+comrades,animals,coexist with,positive,0.7
+comrades,Beasts of England,sing,positive,0.5
+comrades,England,live in,positive,0.6
+Napoleon,pigs,belongs to,positive,0.7
+Snowball,pigs,belongs to,positive,0.7
+Squealer,pigs,belongs to,positive,0.7
+Napoleon,Sundays,control,negative,0.6
+Building,windmill,compensates for,positive,0.7
+Building,windmill,rebuilding,positive,0.8
+Building,windmill,struggle with,negative,0.6
+Building,windmill,admire,positive,0.5
+Building,windmill,excited about,positive,0.5
+Building,windmill,displeased with,negative,0.4
+Boxer,Building,work,positive,0.7
+Boxer,Building,excited about,positive,0.5
+Boxer,Building,dedicated,positive,0.7
+Boxer,Building,tireless,positive,0.7
+Building,winter,struggle with,negative,0.6
+Building,winter,happy about,positive,0.5
+Building,winter,tough time,negative,0.6
+Building,winter,resilient,positive,0.7
+Boxer,Building,unfaltering,positive,0.7
+Building,Autumn,worked hard,positive,0.7
+Building,Autumn,happy about,positive,0.6
+Building,Autumn,tired,negative,0.5
+quarry,Boxer,collect stone,positive,0.6
+Squealer,Boxer,expressed,negative,0.6
+Napoleon,animals,ordered to assemble,neutral,0.7
+dogs,pigs,obedience,negative,0.7
+Boxer,Napoleon,sought guidance,positive,0.6
+pigs,Napoleon,confessed,negative,0.8
+Napoleon,dogs,demanded obedience,negative,0.85
+hens,Snowball,incited by,negative,0.7
+geese,Snowball,incited by,negative,0.7
+sheep,Snowball,urged by,negative,0.7
+sheep,ram,murdered,negative,0.8
+Napoleon,animals,demanded confessions,negative,0.9
+animals,Mrs. Jones,better society,positive,0.7
+Napoleon,animals,established society,positive,0.8
+animals,Clover,protected,positive,0.6
+Napoleon,animals,appointed himself Animal Hero,positive,0.7
+Napoleon,animals,issued orders,neutral,0.7
+Napoleon,dogs,attended by,positive,0.6
+Napoleon,animals,attended leader,positive,0.7
+Napoleon,dogs,attended by,positive,0.6
+pigs,Napoleon,invented titles for,positive,0.6
+Squealer,Napoleon,attributed achievements to,positive,0.7
+animals,Squealer,believed,positive,0.6
+comrades,Squealer,counselled,positive,0.7
+pigeons,Napoleon,forbidden to set foot on Foxwood,negative,0.7
+pigeons,Napoleon,ordered to alter slogan,negative,0.7
+animals,Napoleon,pronounced death sentence on Frederick,negative,0.9
+animals,Frederick,attacked,negative,0.9
+Mr. Jones,Manor Farm,owner of,neutral,0.5
+Mrs. Jones,Mr. Jones,spouse of,neutral,0.5
+Old Major,animals,speech to,positive,0.8
+animals,windmill,build,positive,0.7
+animals,windmill,inspect,positive,0.7
+Napoleon,animals,congratulate,positive,0.7
+animals,meeting,attend,neutral,0.6
+Napoleon,animals,announce,positive,0.7
+animals,meeting,call for,neutral,0.6
+Napoleon,animals,sell to,negative,0.7
+Napoleon,Frederick,in secret agreement with,negative,0.7
+pigeons,Pinchfield Farm,avoid,neutral,0.5
+pigeons,Pinchfield Farm,alter slogan for,neutral,0.6
+Napoleon,animals,assure,positive,0.7
+Snowball,Pinchfield Farm,not hiding on,negative,0.7
+Snowball,Pinchfield Farm,never been on,negative,0.7
+pigs,Snowball,spread rumours about,negative,0.6
+Napoleon,Frederick,force to raise price by,neutral,0.7
+Napoleon,Frederick,not trust,negative,0.6
+Napoleon,Frederick,be cleverer than,positive,0.7
+Napoleon,Frederick,demand payment in,neutral,0.7
+Frederick,timber,pay for with cheque,neutral,0.5
+Frederick,timber,pay for with five-pound notes,neutral,0.7
+Napoleon,timber,receive payment for,positive,0.7
+Frederick,timber,cart away,neutral,0.6
+animals,windmill,hold meeting to inspect,neutral,0.6
+Boxer,bank-notes,sniff at,neutral,0.5
+Whymper,farmhouse,raced into,negative,0.6
+Napoleon,Frederick,pronounce death sentence upon,negative,0.7
+Napoleon,animals,warn,negative,0.7
+Napoleon,Frederick,capture,negative,0.7
+pigeons,Foxwood,send message to,positive,0.6
+Frederick,five-barred gate,come through,negative,0.7
+Napoleon,animals,issue order to,negative,0.7
+Frederick,windmill,attack,negative,0.7
+animals,battle,fight in,negative,0.7
+animals,buildings,take refuge in,neutral,0.6
+Napoleon,Foxwood,send pigeons to,positive,0.6
+Frederick,windmill,knock down,negative,0.7
+animals,windmill,watch,neutral,0.6
+Napoleon,animals,rally,positive,0.6
+animals,men,chase,negative,0.7
+animals,windmill,inspect the place where,neutral,0.6
+Squealer,animals,repose on bed of straw with money,positive,0.7
+animals,see Squealer,approach,neutral,0.5
+animals,see gun firing,wonder about,neutral,0.5
+Napoleon,animals,make speech congratulating,positive,0.7
+Boxer,horse,heal split hoof of,neutral,0.6
+Napoleon,pigs,elected as,positive,0.7
+fresh documents,Snowball,reveal details about complicity with,negative,0.7
+Boxer,Seven Commandments,notion of retirement,positive,0.6
+Boxer,windmill rebuilding,dedication to work,positive,0.7
+Boxer,retirement,aspiration,positive,0.7
+Boxer,death,tragic event,negative,0.9
+Boxer,Animal Farm,loyalty,positive,0.8
+Squealer,Boxer,control and manipulation,negative,0.7
+Napoleon,proclamation,election,positive,0.6
+Napoleon,Boxer,political manipulation,negative,0.7
+Napoleon,death of Boxer,exploitation,negative,0.8
+Napoleon,welfare of the farm,claims of improvement,positive,0.7
+Jones,death,past events,neutral,0.5
+Snowball,treachery,allegations,negative,0.7
+Snowball,Battle of the Cowshed,allegiance,negative,0.6
+Jones,ownership of farm,previous leader,neutral,0.5
+Napoleon,emotions,manipulation,negative,0.7
+Animal Farm,George Orwell,written by,neutral,0.8
+Animal Farm,Mr. Jones,lived at,neutral,0.5
+Manor Farm,location,is,neutral,0.7
+Mrs. Jones,Mr. Jones,related to,neutral,0.6
+Old Major,Middle White boar,related to,positive,0.6
+Muriel,Bluebell,related to,neutral,0.5
+Muriel,Jessie,related to,neutral,0.5
+Muriel,Pincher,related to,neutral,0.5
+Napoleon,Manor Farm,governed,positive,0.8
+Squealer,Napoleon,serves,positive,0.7
+Sheep,Squealer,taught by,positive,0.6
+Mr. Pilkington,Manor Farm,visited,positive,0.6
+Mr. Pilkington,Mr. Jones,compared to,neutral,0.5
+Napoleon,Mr. Pilkington,interacted with,neutral,0.6
+Animal Farm,Manor Farm,title change,neutral,0.8
+Napoleon,Mr. Pilkington,toast,positive,0.7
+Napoleon,Mr. Pilkington,quarrel,negative,0.8
+pigs,animals,collective ownership,neutral,0.6

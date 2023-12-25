@@ -6,31 +6,53 @@ import networkx as nx
 import matplotlib.pyplot as plt
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
-mainTextPath = "Data/As I Lay Dying.txt"
+# mainTextPath = "Data/As I Lay Dying.txt"
+mainTextPath = "Data/animal farm.txt"
 # mainTextPath = "Data\\As I Lay Dying.txt"
 # mainText = open(mainTextPath, "r").read()
 INDEX = "index"
 NODES = "nodes"
 EDGES = "edges"
-nodesFile = "Nodes_WO_NM_WKG_2.csv"
-edgesFile = "Edges_WO_NM_WKG_2.csv"
+nodesFile = "Nodes_WO_NM_WKG_6.csv"
+edgesFile = "Edges_WO_NM_WKG_6.csv"
 messageHistory = []
 
+# systemContent = f"""
+# Identify and list all unique and important entities from the given text, make sure you don't miss anything.
+# From now on we call these entities as {NODES}.
+# The goal is to create a comprehensive knowledge graph of the text.
+# {NODES} are characters, relations, events, locations, objects, and concepts.
+# Node types must be mentioned in the output.
+# Do not include any Nodes that are not in the text.
+# Do not use prenouns or pronouns, use the full name of the Nodes. IT is a strict rule. No pronouns such as he, she, it, they, etc.
+# This is a Node sample: {{"id": "Ada", "T": "charachter"}}
+# You must also return the {NODES} in JSON format.
+# Moreover, show connections between the {NODES} as {EDGES} by using the following format:
+# {{"S": "Node1_id", "T": "Node2_id", "R": "Relation1", "ST": "positive, "weight": 0.5"}}
+# "S" is for source, "T" is for target, "R" is for relation, "ST" is for sentiment.
+# Relations are verbs, adjectives, and adverbs, none of them are unique names, all of them are general terms.
+# """
+
 systemContent = f"""
-Identify and list all the unique and important entities from the given text, make sure you don't miss anything.
-From now on we call these entities as {NODES}.
-The goal is to create a comprehensive knowledge graph of the text.
-{NODES} are charachters, relations, events, locations, objects, and concepts.
-Node types must be mentioned in the output.
-Do not include any Nodes that are not in the text.
-Do not use prenouns or pronouns, use the full name of the Nodes. IT is a strict rule. No pronouns such as he, she, it, they, etc.
-This is a Node sample: {{"id": "Ada", "T": "charachter"}}
-You must also return the {NODES} in JSON format.
-Moreover, show connections between the {NODES} as {EDGES} by using the following format:
-{{"S": "Node1_id", "T": "Node2_id", "R": "Relation1", "ST": "positive"}}
-"S" is for source, "T" is for target, "R" is for relation, "ST" is for sentiment.
-Relations are verbs, adjectives, and adverbs, none of them are unique names, all of them are general terms.
+Identify and list all unique and important entities from the given text, ensuring no omissions.
+These entities are referred to as {NODES}.
+The objective is to construct a comprehensive knowledge graph of the text.
+{NODES} include characters, relations, events, locations, objects, and concepts, with their types specified.
+Avoid using pronouns; always use the full name of the {NODES}.
+Here's a Node sample: {{"id": "Ada", "T": "character"}}.
+"T" stands for "type".
+Return the {NODES} in JSON format.
+Additionally, illustrate connections between the {NODES} as {EDGES}, using the format:
+{{"S": "Node1_id", "T": "Node2_id", "R": "sample relation", "ST": "positive", "W": 0.5}}
+"S" is "Source" and "T" is "Target" and they denote the nodes involved.
+"R" stands for "relations" and describes their interaction, Relations are general phrases, not unique names. Try to include descriptive relations.
+"ST" is "Sentiment" and expresses the nature of the relationship, and "W" is "weight" which quantifies its importance on a scale from 0.0 to 1.0. 
+daily routines should have less weights and main events should have higher weights.
+Return the {EDGES} in JSON format.
+If a node is used in any edge, it must be included in the {NODES}. In other words all S and T in {EDGES} must be in {NODES}.
+The response should be a JSON object with two keys: {NODES} and {EDGES}.
 """
+
 
 systemMessage = {"role": 'system', "content": systemContent}
 messageHistory.append(systemMessage)
@@ -58,23 +80,26 @@ def extract_entities(messages):
 
 paragraphs = []
 with open(mainTextPath, 'r', encoding='utf-8') as file:
-    paragraph = []
+    paragraph = ""
     for line in file:
         if line.strip() == '':  # Check for blank lines
             if paragraph:
-                paragraphs.append('\n'.join(paragraph))
-                paragraph = []
+                # paragraphs.append('\n'.join(paragraph))
+                paragraph += "\n"
+                paragraphs.append(paragraph)
+                paragraph = ""
         else:
-            paragraph.append(line.strip())
+            paragraph += line.strip() + " "
+
     if paragraph:  # Add the last paragraph if the file doesn't end with a blank line
         paragraphs.append('\n'.join(paragraph))
 
 paraCount = len(paragraphs)
-paraphsPerMessage = 60
-overLapPercentage = 0.1
+paraphsPerMessage = 50
+overLapPercentage = 0.3
 overLapPerMessage = round(paraphsPerMessage * overLapPercentage)
 historyParaphsPerMessage = round(paraphsPerMessage * 0.1)
-maxParaphParsed = 3000
+maxParaphParsed = 2000
 nodes = dict()
 edges = dict()
 idx = 0
@@ -94,6 +119,7 @@ try:
                 content += paragraphs[j] + "\n"
                 break
             content += paragraphs[j] + "\n"
+        # print(content)
         i += paraphsPerMessage
         existingKG = "This is the extracted data so far:\n"
         # existingKG += f"{NODES} = {json.dumps(list(nodes.values()))}\n{EDGES} = {json.dumps(list(edges.values()))}"
@@ -106,6 +132,7 @@ try:
         response = extract_entities(messages)
         # print number of tokens
         print(response['usage'])
+        # print(response)
         try:
             jsonRes = json.loads(response.choices[0].message.content)
             if NODES in jsonRes:
@@ -118,7 +145,6 @@ try:
                 for ed in eds:
                     edges[idx] = ed
                     idx += 1
-            # pprint.pprint(jsonRes)
             print(f"node count: {len(nodes)}, edge count: {len(edges)}")
         except Exception as e:
             # print(response)
@@ -132,7 +158,8 @@ except Exception as e:
     print(e)
 
 import csv
-
+print(nodes)
+print(edges)
 with open(nodesFile, 'w', newline='') as csvfile: 
     fieldnames = ['id', 'T']
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
@@ -140,7 +167,7 @@ with open(nodesFile, 'w', newline='') as csvfile:
     for nd in nodes:
         writer.writerow(nodes[nd])
 with open(edgesFile, 'w', newline='') as csvfile:
-    fieldnames = ['S', 'T', 'R', 'ST']
+    fieldnames = ['S', 'T', 'R', 'ST', 'W']
     writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
     writer.writeheader()
     for ed in edges:
